@@ -1,0 +1,12 @@
+{
+        "projects": [
+                {
+                        "name": "libft",
+                        "language": "C"
+                },
+                {
+                        "name": "printf",
+                        "language": "C"
+                }
+        ]
+}
